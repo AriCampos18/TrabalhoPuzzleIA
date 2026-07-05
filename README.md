@@ -1,2 +1,22 @@
+**8-Puzzle Solver**
+
 Esta é uma aplicação web em JavaScript e React para a disciplina de Inteligência Artificial que resolve automaticamente o quebra-cabeça 8-Puzzle utilizando algoritmos de busca heurística. O projeto permite definir o estado inicial e final do jogo, embaralhar as peças, utilizar a heurística da Distância de Manhattan e comparar estratégias de busca, incluindo o algoritmo A*. A aplicação também apresenta a solução passo a passo, além de métricas como número de nós visitados, tempo de execução e tamanho do caminho encontrado, por meio de uma interface gráfica interativa.
+
+**Funcionalidades**
+
+- Definição do estado inicial e do estado final do puzzle.
+- Embaralhamento automático das peças.
+- Resolução utilizando os algoritmos Best-First Search e A*.
+- Utilização da heurística da Distância de Manhattan.
+- Exibição da solução passo a passo.
+- Apresentação de métricas como número de nós visitados, tempo de execução e tamanho do caminho da solução.
+
+**Tecnologias**
+
+- React
+- JavaScript (ES6+)
+- HTML
+- CSS
+
+**Interface**
 <img width="1365" height="407" alt="image" src="https://github.com/user-attachments/assets/4eff8f03-1993-4ed9-8d3b-1157104036f9" />
